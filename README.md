@@ -65,4 +65,4 @@ Using Azure AI Vision Studio, this project demonstrates how to experiment with t
 
 ### Reference
 
-https://learn.microsoft.com/en-us/training/modules/read-text-computer-vision/4-read-text-computer-vision
+Exercise: [Microsoft Training Module](https://learn.microsoft.com/en-us/training/modules/read-text-computer-vision/4-read-text-computer-vision)
